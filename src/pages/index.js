@@ -14,9 +14,6 @@ export default function Home() {
       <Header />
 
       <div className={styles.mainContent}>
-        <div className = {styles.layer}>
-
-        </div>
         <Image
           className={styles.landingImage}
           src="/landing.jpg"
